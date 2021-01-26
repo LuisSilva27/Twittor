@@ -1,11 +1,12 @@
 {
-    "short_name": "Twittor",
     "name": "Twittor: By Luis Silva",
-    "start_url":"index.html",
-    "background_color":"#3498db",
-    "theme_color":"#3498db",
-    "display":"standalone",
-    "orientation":"portrait",    
+    "short_name": "Twittor",
+    "theme_color": "#3498db",
+    "background_color": "#3498db",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "index.html",   
     "icons": [
         {
             "src": "img/icons/icon-72x72.png",
